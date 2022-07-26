@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Oiii eu sou o Ian Codeço, futuro Analista de Sistemas e Programador Full Stack em formação!
 <div align="center">
   <a href="https://github.com/imaxcodeco">
@@ -26,3 +27,21 @@
   ![Snake animation](https://github.com/imaxcodeco/imaxcodeco/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+=======
+### Hi there 👋
+
+<!--
+**imaxcodeco/imaxcodeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 6c249c94c8c6f42a8747190dc1cc3fde6cc2b60f
